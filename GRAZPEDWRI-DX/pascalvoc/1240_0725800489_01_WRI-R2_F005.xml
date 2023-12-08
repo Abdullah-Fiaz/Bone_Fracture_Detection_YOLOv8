@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+ <filename>
+  1240_0725800489_01_WRI-R2_F005.png
+ </filename>
+ <folder/>
+ <path>
+  1240_0725800489_01_WRI-R2_F005.png
+ </path>
+ <segmented>
+  0
+ </segmented>
+ <size/>
+ <source>
+  <database>
+   GRAZPEDWRI-DX
+  </database>
+ </source>
+ <object>
+  <bndbox>
+   <xmax>
+    257
+   </xmax>
+   <xmin>
+    230
+   </xmin>
+   <ymax>
+    746
+   </ymax>
+   <ymin>
+    712
+   </ymin>
+  </bndbox>
+  <difficult>
+   0
+  </difficult>
+  <name>
+   text
+  </name>
+  <pose>
+   Unspecified
+  </pose>
+  <truncated>
+   0
+  </truncated>
+ </object>
+</annotation>
